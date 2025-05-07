@@ -4,6 +4,7 @@ A simple and secure Password Generator built with Python, Flask, HTML, and CSS. 
 ⚙️ Features: 
 
 Generates random secure passwords: 
+
 Choose password length, it can include/exclude - 
 1) uppercase letters
 2) lowercase letters
