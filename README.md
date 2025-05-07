@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 A simple and secure Password Generator built with Python, Flask, HTML, and CSS. This app helps users generate strong, random passwords with customizable options like length and character types.
 
 ⚙️ Features: 
